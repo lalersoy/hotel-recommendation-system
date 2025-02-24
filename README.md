@@ -63,8 +63,7 @@ To install all dependencies:
 
 ---
 
-## Author
-**@lalersoy**  
+## Author: Deniz Lal Ersoy
 **[GitHub Repo](https://github.com/lalersoy/hotel-recommendation-system)**  
 
 ---
