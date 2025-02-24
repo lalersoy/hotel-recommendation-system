@@ -24,7 +24,7 @@ Before running the notebook, ensure you have the dataset in the correct location
    ```python
    reviews = pd.read_csv("/path/to/data/reviews.csv")
    offerings = pd.read_csv("/path/to/data/offerings.csv")
-
+```
 ## Preprocessing
 - **Preprocessing Steps:**
   - Tokenization, Lemmatization, and Stopword Removal
