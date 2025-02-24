@@ -8,7 +8,7 @@ This project builds a **hotel recommendation system** using **sentiment analysis
 ```
 /hotel-recommendation-system
 │── /code                 # Contains the Jupyter Notebook
-│   ├── hotelreviews.ipynb  # Main notebook with sentiment analysis & recommendations
+│   ├── recommendation-tool.ipynb  # Main notebook with sentiment analysis & recommendations
 │── README.md             # Project documentation
 ```
 
@@ -63,7 +63,7 @@ To install all dependencies:
 
 ---
 
-## Author: Deniz Lal Ersoy
+# Author: Deniz Lal Ersoy
 **[GitHub Repo](https://github.com/lalersoy/hotel-recommendation-system)**  
 
 ---
