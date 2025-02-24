@@ -48,25 +48,7 @@ Before running the notebook, ensure you have the dataset in the correct location
 
 ---
 
-## How to Run the Code
-### **Clone the Repository**
-```bash
-git clone https://github.com/lalersoy/hotel-recommendation-system.git
-cd hotel-recommendation-system/code
-```
-### **Install Dependencies**
-```bash
-pip install -r requirements.txt
-```
-### 3️⃣ **Run the Jupyter Notebook**
-```bash
-jupyter notebook
-```
-Open **`hotelreviews.ipynb`** and run all cells.
-
----
-
-## 📦 Requirements
+## Requirements
 - Python 3.8+
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `nltk` (for sentiment analysis)
@@ -76,23 +58,14 @@ Open **`hotelreviews.ipynb`** and run all cells.
 
 To install all dependencies:
 ```bash
-pip install pandas numpy matplotlib seaborn nltk scikit-learn fasttext wordcloud
+!pip install pandas numpy matplotlib seaborn nltk scikit-learn fasttext wordcloud
 ```
 
 ---
 
-## 🔥 Future Improvements
-- **Advanced ML Models:** Try deep learning-based sentiment analysis.
-- **Hybrid Recommendations:** Combine sentiment with **collaborative filtering**.
-- **Interactive UI:** Build a front-end to allow real-time hotel searches.
+## Author
+**@lalersoy**  
+**[GitHub Repo](https://github.com/lalersoy/hotel-recommendation-system)**  
 
 ---
-
-## 📌 Author
-👤 **@lalersoy**  
-🌐 **[GitHub Repo](https://github.com/lalersoy/hotel-recommendation-system)**  
-
----
-
-## 🎉 Enjoy Recommending Hotels! 🚀
 
