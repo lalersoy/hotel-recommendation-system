@@ -1,6 +1,6 @@
 # Hotel Recommendation System
 
-This project builds a **hotel recommendation system** using **sentiment analysis** and **TF-IDF-based text processing**. It utilizes hotel reviews from TripAdvisor to analyze customer sentiments and recommend the best hotels based on user preferences.
+This project develops a **hotel recommendation system** by using **sentiment analysis** and **TF-IDF-based text processing**. It analyzes hotel reviews from TripAdvisor to assess customer sentiments and utilizes **cosine similarity** to match user queries with relevant reviews, thus, recommending the hotels that abide by these requests. 
 
 ---
 
