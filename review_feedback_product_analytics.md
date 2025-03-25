@@ -38,7 +38,7 @@ In a product setting, this could translate to:
 
 ---
 
-## Final Thought
+## Finally..
 
 I built this project to learn more about text-based systems—but it naturally led me to think about how product teams could benefit from similar methods. Translating user voice into structured insight is hard, but incredibly valuable and I’d be excited to explore that further in real-world product settings.
 
