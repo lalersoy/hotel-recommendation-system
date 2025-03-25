@@ -1,4 +1,4 @@
-# Hotel Recommendation System
+# NLP-Powered Personalization System from Review Data
 
 This project develops a **hotel recommendation system** by using **sentiment analysis** and **TF-IDF-based text processing**. It analyzes hotel reviews from TripAdvisor to assess customer sentiments and utilizes **cosine similarity** to match user queries with relevant reviews, thus, recommending the hotels that abide by these requests. 
 
