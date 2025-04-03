@@ -13,7 +13,7 @@ That’s a core question in product analytics too.
 
 In product environments, we deal with open-ended feedback all the time, from app reviews, survey responses, or support tickets. 
 
-These inputs are full of insight, but they’re often unstructured, noisy, or in multiple languages. The approach in this project—cleaning the text, detecting sentiment, and matching inputs to relevant content—applies directly to 
+These inputs are full of insight, but they’re often unstructured, noisy, or in multiple languages. The approach in this project (cleaning the text, detecting sentiment, and matching inputs to relevant content) applies directly to 
 - **Prioritizing user requests**
 - **Personalizing user experiences**
 - **Identifying recurring themes or pain points**
